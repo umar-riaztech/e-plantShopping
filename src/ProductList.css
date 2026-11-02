@@ -172,6 +172,17 @@ body {
     font-size: 29px;
 
 }
+.cart-count {
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    position: relative;
+    top: -25px;
+    right: 15px;
+}
 .plantname_heading{
    display: flex;
    align-items: center;
